@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/apps_calorie_calculator.ico</file>
+    </qresource>
+</RCC>

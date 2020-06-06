@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>baidu.png</file>
+    </qresource>
+</RCC>
