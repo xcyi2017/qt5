@@ -1,0 +1,9 @@
+import QtQuick 2.0
+
+DarkSquare {
+    id: root
+    width: 252
+    height: 252
+    property variant colorArray: ["#00bde3", "#67c111", "#ea7025"]
+    
+}

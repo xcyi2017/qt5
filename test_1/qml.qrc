@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Button.qml</file>
+        <file>ClickableImage.qml</file>
+        <file>transformation.qml</file>
+        <file>RedSquare.qml</file>
+        <file>column.qml</file>
+        <file>GreenSquare.qml</file>
+        <file>row.qml</file>
+        <file>BlueSquare.qml</file>
+        <file>BrightSquare.qml</file>
+        <file>DarkSquare.qml</file>
+        <file>Grid_.qml</file>
+        <file>Flow_.qml</file>
+        <file>Repeater_.qml</file>
+        <file>LayoutItem.qml</file>
+        <file>TextInput_.qml</file>
+        <file>TextInput_1.qml</file>
+        <file>TlineEditV1.qml</file>
+        <file>TlineEditV2.qml</file>
+        <file>TTextEdit.qml</file>
+        <file>KKey.qml</file>
+    </qresource>
+</RCC>
