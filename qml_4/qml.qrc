@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Animation_.qml</file>
+        <file>background.png</file>
+        <file>rocket.png</file>
+        <file>ClickableImageV2.qml</file>
+        <file>ClickableImageV3.qml</file>
+        <file>ufo.png</file>
+        <file>DarkSquare.qml</file>
+        <file>Easingtypes.qml</file>
+        <file>curves/InBack.png</file>
+        <file>curves/InBounce.png</file>
+        <file>curves/InCirc.png</file>
+        <file>curves/InCubic.png</file>
+        <file>curves/InElastic.png</file>
+        <file>curves/InOutQuad.png</file>
+        <file>curves/InQuad.png</file>
+        <file>curves/InSine.png</file>
+        <file>curves/Linear.png</file>
+        <file>curves/OutQuad.png</file>
+        <file>GreenSquare.qml</file>
+        <file>ParallelAnimation_.qml</file>
+        <file>BrightSquare.qml</file>
+        <file>Sequentialanimation.qml</file>
+        <file>soccer_ball.png</file>
+        <file>BouncingBallExample.qml</file>
+    </qresource>
+</RCC>
